@@ -95,7 +95,7 @@ class SnakeInit:
         self.snake.moving_direction = "top"
 
         #Змінити позицію яблука
-        self.apple.generate_posit
+        self.apple.generate_position()
 
         #Відображення кнопки
         self.play_button.visible = True

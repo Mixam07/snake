@@ -11,3 +11,4 @@ class Settings:
         #Налаштування змійки
         self.start_number_parts = 3
         self.size_snake = 50
+        self.snake_speed = 1.0
